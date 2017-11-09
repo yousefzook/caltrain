@@ -1,0 +1,3 @@
+/media/yousef/01D3143E7D223CC0/Engieneering/C/Train-Lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/yousef/01D3143E7D223CC0/Engieneering/C/Train-Lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/yousef/01D3143E7D223CC0/Engieneering/C/Train-Lab3/cmake-build-debug/CMakeFiles/Train_Lab3.dir

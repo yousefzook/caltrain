@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Train_Lab3.dir/caltrain-runner.c.o CMakeFiles/Train_Lab3.dir/caltrain.c.o  -o Train_Lab3 
